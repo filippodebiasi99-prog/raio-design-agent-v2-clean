@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# editor
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# env
+.env
+.env.local
+
+# dependencies/build
+node_modules/
+dist/
+build/
+.cache/
+
+# generated local tests
+experiments/
+*.tmp.html

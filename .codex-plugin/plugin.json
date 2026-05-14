@@ -1,0 +1,35 @@
+{
+  "name": "raio-design-agent-v2-clean",
+  "version": "2.0.0",
+  "description": "Reference-first, foundation-first visual design agent for RaiO Studio / RaiOS.",
+  "author": {
+    "name": "RaiO Studio"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "design",
+    "ui",
+    "raios",
+    "reference-first",
+    "typography",
+    "palette",
+    "codex-skill"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "RaiO Design Agent V2 Clean",
+    "shortDescription": "Reference-first and foundation-first UI design agent.",
+    "longDescription": "A stricter RaiO design agent focused on reference fidelity, typography, palette, spacing and component quality before custom enrichment.",
+    "developerName": "RaiO Studio",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use the RaiO Design Agent V2 to design this UI.",
+      "Select references, define foundation, then build.",
+      "Review this UI against reference fidelity."
+    ],
+    "brandColor": "#111418"
+  }
+}
