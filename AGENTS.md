@@ -154,3 +154,29 @@ If reference fidelity is below 7, overall cannot exceed 6.
 If typography or palette is weak, overall cannot exceed 6.
 
 If output looks like generic Codex dashboard aesthetic, overall cannot exceed 5.
+
+<!-- UPDATE-01-MINI-SAMPLE-ASSET-DISCIPLINE -->
+
+## Update 01 · Mini Sample + One Strong Visual Move + Asset Discipline
+
+While calibrating visual quality, do not build full dashboards.
+
+Read:
+- `design-core/11-mini-sample-protocol.md`
+- `design-core/12-one-strong-visual-move.md`
+- `design-core/13-asset-discipline.md`
+- `design-core/14-placeholder-quality-bar.md`
+
+Build only:
+- one focus module
+- one 3-row lead list
+- one small context card
+
+The sample must have one strong visual move.
+
+A clean layout without a real visual move is not enough.
+
+If high quality depends on assets, either create a simple refined inline SVG or provide an Asset Request Brief.
+
+Generic placeholders cannot be treated as final design.
+
